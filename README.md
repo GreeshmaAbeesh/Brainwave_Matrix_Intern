@@ -42,6 +42,10 @@ This report can be used by sales managers, marketing teams, and business analyst
 - Understand geographical trends and target specific regions effectively.
 - Analyze seasonal trends and prepare for peak sales periods.
 
+## Dashboard
+![AdventureWorks Sales Chart](./Task1_SalesReport/SalesReport_Image.png)
+
+
 ## Data Source
 The data for this report is sourced from the AdventureWorks dataset, which contains detailed transactional data for various sales activities.
 
