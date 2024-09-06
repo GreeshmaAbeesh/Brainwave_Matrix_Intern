@@ -47,3 +47,4 @@ The data for this report is sourced from the AdventureWorks dataset, which conta
 Conclusion
 The AdventureWorks Sales Report provides a comprehensive view of the sales performance, enabling businesses to make strategic decisions based on detailed sales insights.
 
+
